@@ -1,7 +1,7 @@
 Issues
 ======
 
-This repository is used to manage any and all issues relating to the [Codio](https://codio.com) platform.
+This repository is used to manage any and all issues relating to the [Codio](https://codio.com) platform. It should only be used to report bugs and make feature requests. If you have any general questions or are unsure where to go, please use the [Codio Forum](http://forum.codio.com).
 
 
 ## Workflow
